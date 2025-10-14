@@ -1,0 +1,11 @@
+pandas
+numpy
+gensim
+jupyter
+scikit-learn
+tensorflow>=2.0
+torch
+transformers
+spacy
+nltk
+plotly
